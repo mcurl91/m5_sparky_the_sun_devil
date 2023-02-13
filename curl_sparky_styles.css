@@ -8,8 +8,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #8c1d40;
-    color: #fff;
+    background-color: #ccc;
+    color: #222;
 }
 
 header {
@@ -73,7 +73,7 @@ nav li {
 }
 
 nav a {
-    display: inline-block;
+    display: block;
     background-color: #8c1d40;
     color: #fff;
     padding: 8px;
